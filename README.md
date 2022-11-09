@@ -27,6 +27,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiz4i&count_private=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Qiz4i&theme=radical&hide_border=false)
 
 ## 😄 Pronouns: 
 <ul>
