@@ -1,4 +1,5 @@
 # Dario Galesi
+Odio Apple e i Mac, amo Windows
 # ![Profile views](https://gpvc.arturio.dev/Qiz4i)
 
 ## Hey, Nice to see you.
