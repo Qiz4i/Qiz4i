@@ -25,10 +25,24 @@
 ![](https://img.shields.io/badge/-iOS-informational?style=flat&logo=ios&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-iPadOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 <br>
+<div align="center">
+    
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiz4i&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
+
+</div>
+
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiz4i&count_private=true&theme=radical)
+
+</div>
+
+<div align="center">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Qiz4i&theme=radical&hide_border=false)
 
+</div>    
+    
 ## 😄 Pronouns: 
 <ul>
     <li>He/Him</li>
